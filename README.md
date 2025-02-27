@@ -1,7 +1,16 @@
-# Fitness_App
-This Flutter-based fitness app is designed to help users track their health and fitness with multiple features. Whether you want to monitor your BMI, count your daily steps, check the live weather, or securely log in using Firebase authentication, this app has got you covered! 
-  🚀 Features 
-📊 BMI Counter Calculate Body Mass Index (BMI) based on user input (height & weight). Provides a health status indicator (Underweight, Normal, Overweight, etc.). User-friendly interface for quick calculations. 
-👣 Step Counter Tracks daily steps using the device’s sensors. Displays step count. Encourages users to stay active with goal-based tracking. 
-☁️ Live Weather (API Integration) Fetches real-time weather data based on the user's location. Displays temperature, humidity, wind speed, and more. Helps users plan outdoor workouts with accurate weather updates. 
-🔐 Firebase Authentication (Login/Signup) Secure authentication using Firebase. Supports Email/Password sign-up and login. Provides a smooth and safe user experience. 
+# first_app
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
